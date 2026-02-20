@@ -177,16 +177,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots of:_
-- Price Chart with Indicators
-- Buy/Sell Signals
-- Portfolio Growth Graph
-- Risk Metrics Section
-
----
-
 ## 📈 What This Project Demonstrates
 
 - Financial Data Analysis
@@ -218,14 +208,9 @@ It does not provide financial advice or guarantee profits.
 
 ---
 
-## 📜 License
-
-MIT License
-
----
 
 ## 👤 Author
 
-Your Name  
+Your Name: Pawan Nikam
 Final Year Engineering Student  
 Focused on Data Science, Quantitative Analysis & Systems Engineering
